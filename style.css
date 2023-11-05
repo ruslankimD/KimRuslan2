@@ -74,3 +74,11 @@ p {
 li {
 	text-align: left;
 }
+
+.link {
+	font-size: 50px;
+}
+
+.link:hover {
+	color: black;
+}
